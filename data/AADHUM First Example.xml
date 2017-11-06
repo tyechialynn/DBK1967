@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">DEADLY JAMES</title type="main">
+            <title type="sub">For Victims of Police Brutality</title type="sub">
+            <author>
+              <persName xml: id="TLT">Tyechia L. Thompson</persName>
+            </author>
+            <resp> Encoded by</resp>
+            <persName>Tyechia Thompson</persName>
+
+         </titleStmt>
+         <publicationStmt>
+           <publisher>
+             <persName ref="TLT">Tyechia L. Thompson</persName>
+           </publisher>
+           <pubPlace>
+             <settlement>Washington</settlement>
+             <region>D.C.</region>
+           </pubPlace>
+           <date when="2017-10-16">October 16, 2017</date>
+            <p>Information about publication</p>
+         </publicationStmt>
+         <sourceDesc>
+           <bibl>
+             <title>Deadly James and Other Poems</title>
+             <publisher>James A. Emanuel</publisher>
+             <pubPlace>
+                <settlement>Paris</settlement>
+                <region>France</region>
+             </pubPlace>
+             <date when="1985-02">February 1985</date>
+           </bibl>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>
