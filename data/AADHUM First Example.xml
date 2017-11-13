@@ -33,15 +33,17 @@
   </teiHeader>
   <text>
       <body>
-         <p>The killer-cops, the San Diego three,</p>
-         <p>what made them think you deadly, James?</p>
+        <lg>
+         <l>The killer-cops, the San Diego three,</l>
+         <l>what made them think you deadly, James?</l>
+       </lg>
 
-         <div>
-<p>I take their guilty heads into my arms;</p>
-<p>I cradle them,</p>
-         </div>
+       <lg>
+         <l>I take their guilty heads into my arms;</l>
+         <l>I cradle them,</l>
+       </lg>
 
-         
+
       </body>
   </text>
 </TEI>
