@@ -25,10 +25,12 @@
            </pubPlace>
            <date when="2017-10-16">October 16, 2017</date>
       </publicationStmt>
+
          <sourceDesc>
            <bibl>
              <title>Deadly James and Other Poems</title>
-             <publisher>James A. Emanuel</publisher>
+             <author>James A. Emanuel</author>
+             <publisher>Lotus Press</publisher>
              <pubPlace>
                 <settlement>Paris</settlement>
                 <region>France</region>
@@ -36,6 +38,7 @@
              <date when="1985-02">February 1985</date>
            </bibl>
          </sourceDesc>
+
       </fileDesc>
   </teiHeader>
   <text>
@@ -51,15 +54,16 @@
          <l>my tendons hush their eyes.</l>
          <l>illume them to see the years roll back:</l>
          <l>your little window, James, unsealed,</l>
-         <l>your palomino rocking horse.
+         <l>your palomino rocking horse.</l>
          <l>his glassy eyes unquiet</l>
-         <l>when the sudden blood that splashed his ivory mane</lg>
+         <l>when the sudden blood that splashed his ivory mane</l>
          <l>told you the table knife you sucked on</l>
          <l>was different, could also spit upon the tawny rug</l>
          <l>breathtaking tracks,</l>
          <l>deadly, James.</l>
-
        </lg>
+
+       <l>
 
 
       </body>
