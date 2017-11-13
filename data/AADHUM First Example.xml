@@ -5,8 +5,15 @@
   <teiHeader>
       <fileDesc>
       <titleStmt>
-      <title>DEADLY JAMES (For All the Victims of Police Brutality)</title>
-      <author>Tyechia L. Thompson</author>
+         <title type="main">DEADLY JAMES (For All the Victims of Police Brutality)</title>
+         <title type="sub">Digital Edition</title>
+         <author>
+            <persName xml:id="TLT">Tyechia L. Thompson</persName>
+         </author>
+         <respStmt>
+            <resp>Encoded by</resp>
+            <persName ref="#TLT">Tyechia L. Thompson</persName>
+         </respStmt>
       </titleStmt>
       <publicationStmt>
            <publisher>
