@@ -5,7 +5,7 @@
   <teiHeader>
       <fileDesc>
       <titleStmt>
-      <title>DEADLY JAMES For All the Victims of Police Brutality</title>
+      <title>DEADLY JAMES (For All the Victims of Police Brutality)</title>
       <author>Tyechia L. Thompson</author>
       </titleStmt>
       <publicationStmt>
@@ -33,8 +33,15 @@
   </teiHeader>
   <text>
       <body>
-         <p>The killer-cops, the San Diego three,
-         what made them think you deadly, James?</p>
+         <p>The killer-cops, the San Diego three,</p>
+         <p>what made them think you deadly, James?</p>
+
+         <div>
+<p>I take their guilty heads into my arms;</p>
+<p>I cradle them,</p>
+         </div>
+
+         
       </body>
   </text>
 </TEI>
