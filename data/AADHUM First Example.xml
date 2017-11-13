@@ -15,6 +15,7 @@
             <persName ref="#TLT">Tyechia L. Thompson</persName>
          </respStmt>
       </titleStmt>
+
       <publicationStmt>
            <publisher>
              <persName ref="TLT">Tyechia L. Thompson</persName>
@@ -38,9 +39,9 @@
              <date when="1985-02">February 1985</date>
            </bibl>
          </sourceDesc>
-
-      </fileDesc>
+     </fileDesc>
   </teiHeader>
+
   <text>
       <body>
         <lg>
